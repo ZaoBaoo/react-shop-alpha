@@ -62,6 +62,7 @@ function Shop() {
     setBasketShow(!isBasketShow);
   };
 
+  // Уведомление
   const closeAlert = () => {
     setAlertName("");
   };
